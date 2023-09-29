@@ -1,0 +1,65 @@
+/* Reset some default browser styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the content sections */
+.content {
+    padding: 40px;
+    text-align: center;
+    background-color: #007fd4;
+    border: 1px solid #0071bd;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+/* Style the footer */
+#footer {
+    font-family: 'Press Start 2P', cursive;
+font-family: 'Staatliches', cursive;
+    background-color: #007fd4;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+#header {
+    background-color: #007fd4;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+#nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+#g {
+    font-family: 'Press Start 2P', cursive;
+font-family: 'Staatliches', cursive;                        
+ color: #fff;
+ 
+}
+html {
+ background-color: #333;
+} 
+#m {
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Staatliches', cursive;
+ color: #fff;
+ 
+}
+#b {
+    font-family: 'Press Start 2P', cursive;
+font-family: 'Staatliches', cursive;
+ color: #fff;
+
+ 
+}

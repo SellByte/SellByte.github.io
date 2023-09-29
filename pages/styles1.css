@@ -1,0 +1,71 @@
+/* Reset some default browser styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the content sections */
+.content {
+    padding: 40px;
+    text-align: center;
+    background-color: #007fd4;
+    border: 1px solid #0071bd;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+/* Style the news articles */
+.news-article {
+    background-color: #333;
+    border: 1px solid #0071bd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.news-article h3 {
+    font-size: 20px;
+}
+
+.news-article p {
+    font-size: 16px;
+}
+
+.news-article a {
+    text-decoration: none;
+    color: #0078d4; /* Blue color for links */
+    font-weight: bold;
+}
+
+.news-article a:hover {
+    text-decoration: underline;
+}
+
+/* Style the footer */
+#footer {
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Staatliches', cursive;
+    background-color: #007fd4;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+html {
+ background-color: #333;
+}
+#g {
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Staatliches', cursive;
+ color: #fff;
+}
+#b {
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Staatliches', cursive; 
+ color: #fff;
+}
