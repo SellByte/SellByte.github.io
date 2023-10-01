@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookCaseCode</title>
+    <link rel="stylesheet" href="styles.css"
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Staatliches&display=swap" rel="stylesheet">
+>
+</head>
+<body>
+    <div id="header">
+        <div id="nav">
+            <div><a id="g" href="index.html">Home</a></div>
+            <div><a id="g" href="/pages/new.html">News</a></div>
+            <div><a id="g" href="/pages/projects.html">Projects</a></div>
+            <div><a id="g" href="#about">About</a></div>
+        </div>
+    </div>
+    <div id="welcome" class="content">
+        <h1 id="m">BookCaseCode</h1>
+        <p id="b">BookCaseCode We Do Code and Scripting and on Github</p>
+    </div>
+
+    <div id="news" class="content"><a href="/pages/new.html">
+        <h2 id="m">News</h2>
+        <p id="b">Here you can find the latest news and updates.</p></a>
+    </div>
+
+    <div id="projects" class="content"><a href="/pages/projects.html">
+        <h2 id="m">Projects</h2>
+        <p id="b">Check out our exciting projects.</p>
+    </div></a>
+
+    <div id="about" class="content">
+        <h2 id="m">About</h2>
+        <p id="b">Learn more About us Here</p>
+    </div>
+
+    <div id="footer">
+        <p>&copy; 2023 BookCaseCode</p>
+    </div>
+</body>
+</html>

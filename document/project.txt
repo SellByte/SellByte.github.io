@@ -1,0 +1,40 @@
+<!-- index.html - Projects Page -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookCaseCode Projects</title>
+    <link rel="stylesheet" href="styles2.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Staatliches&display=swap" rel="stylesheet">
+    >
+</head>
+<body>
+    <header>
+        <h1 id="g">BookCaseCode Projects</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a id="a" href="project1.html">BookCaseCode Website</a></li>
+            <li><a id="a" href="#project2">Project 2</a></li>
+            <!-- Add more project links as needed -->
+        </ul>
+    </nav>
+    <main>
+        <div id="project1" class="project">
+            <a id="a" href="project1.html"><h2 id="g">BookCaseCode Website</h2></a>
+            <!-- Content for Project 1 goes here -->
+        </div>
+        <div id="project2" class="project">
+            <h2 id="g">Project 2</h2>
+            <!-- Content for Project 2 goes here -->
+        </div>
+        <!-- Add more project divs as needed -->
+    </main>
+    <footer>
+        <p id="g">&copy; 2023 Your Simple Website</p>
+    </footer>
+</body>
+</html>

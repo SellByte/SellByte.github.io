@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookCaseCode New</title>
+    <link rel="stylesheet" href="styles1.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Staatliches&display=swap" rel="stylesheet">
+    >
+</head>
+<body>
+    <div id="welcome" class="content">
+        <h1 id="g">BookCaseCode New</h1>
+        
+    </div>
+
+    <div id="news" class="content">
+        <h2 id="g">News</h2>
+        <div class="news-article">
+            <h3 id="g">ToolKit DevLog #1</h3>
+            <p id="b">Code in Python and Is fun Projects and We Try to Release in November</p>
+        </div>
+
+        <div class="news-article">
+            <h3 id="g">New BookCaseCode Website</h3>
+            <p id="b">Release New Website </p>
+        </div>
+    </div>
+
+    <div id="projects" class="content"><a href="/pages/projects.html">
+        <h2 id="g">Projects</h2>
+        <p id="b">Check out our exciting projects.</p>
+    </div></a>
+
+    <div id="about" class="content">
+        <h2 id="g">About</h2>
+        <p id="b">Learn more about us and our mission.</p>
+    </div>
+
+    <div id="footer">
+        <p>&copy; 2023 BookCaseCode</p>
+    </div>
+</body>
+</html>
