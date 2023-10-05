@@ -40,7 +40,8 @@
     </div>
 
     <div id="footer">
-        <p>&copy; 2023 BookCaseCode</p>
+        <p>&copy; 2023 BookCaseCode.com</p>
     </div>
 </body>
+</html>
 </html>

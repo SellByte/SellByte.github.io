@@ -34,7 +34,7 @@
         <!-- Add more project divs as needed -->
     </main>
     <footer>
-        <p id="g">&copy; 2023 Your Simple Website</p>
+        <p id="g">&copy; 2023 BookCaseCode.com</p>
     </footer>
 </body>
 </html>
